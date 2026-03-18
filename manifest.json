@@ -1,0 +1,22 @@
+{
+  "name": "CuteNotes",
+  "short_name": "CuteNotes",
+  "description": "Tu app de notas y cuadernos bonitos",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF8FF",
+  "theme_color": "#7C5CFC",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
